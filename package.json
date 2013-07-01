@@ -1,0 +1,11 @@
+{
+  "name": "node_keyboard_mac",
+  "version": "0.0.0",
+  "author": "dapuck <imccall@da-puck.com>",
+  "dependencies": {
+    "NodObjC": "0.0.15"
+  },
+  "license": "MIT",
+  "ignore": ".git .gitignore",
+  "main": "./main.js"
+}
