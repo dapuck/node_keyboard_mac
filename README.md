@@ -1,4 +1,4 @@
-Node mouse control, for Mac!
+Node keyboard control, for Mac!
 ============================
 
 Dependencies
