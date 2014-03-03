@@ -1,4 +1,9 @@
-Node keyboard control, for Mac!
+This project is now defunct.
+============================
+
+It has been replaced by [dapuck/node-mac-vhid](https://github.com/dapuck/node-mac-vhid)
+
+~~Node keyboard control, for Mac!~~
 ============================
 
 Dependencies
